@@ -13,7 +13,7 @@
 
 🧪 Summary of Neuronal Network for 28*28 RGB
 
-![CNN_Summary](images/summary_cnn.png)
+![CNN_Summary](Images/summary_cnn.png)
 
 ## 📊 Results
 | Image Format | Accuracy | Macro F1 | Notable Insights |
@@ -27,9 +27,9 @@
 
 - Confusion Matrix 28*28 RGB Model + metrics
 
-![Confusion_Matrix](images/Matrix.png)
+![Confusion_Matrix](Images/Matrix.png)
 
-![Summary_metrics](images/Table_metrics.png)
+![Summary_metrics](Images/Table_metrics.png)
 
 
 ## 🔁 Next Steps
