@@ -1,0 +1,6 @@
+tensorflow>=2.8
+pandas
+matplotlib
+seaborn
+sickit-learn
+keras
